@@ -8,7 +8,7 @@ import org.jsoup.select.Elements;
 
 
 //объявление класса
-public class Temperature {
+public class ParseValute {
 
 //функция для получения html документа
     private static Document getPage() throws IOException {
